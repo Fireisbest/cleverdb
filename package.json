@@ -1,0 +1,17 @@
+{
+  "name": "cleverdb",
+  "version": "1.0.2",
+  "description": "cleverdb is here to provide an easy way for beginners and people of all levels to access & store data in a low to medium volume environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fire",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.4.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {}
+}
