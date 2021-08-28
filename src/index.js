@@ -345,3 +345,4 @@ module.exports = function(file) {
     
     return module;
 }
+
